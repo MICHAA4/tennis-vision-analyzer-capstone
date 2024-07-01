@@ -40,15 +40,16 @@
 
 ## How to Run
 1. Clone this repository
-'''
+```
 https://github.com/Project-MONAI/GenerativeModels
-'''
-3. Go to predict_video.py
-4. Write your input video path adn filename and output path
-'''
+```
+2. Go to predict_video.py
+3. Write your input video path adn filename and output path
+```
 input_video_path = 'test/video_input1.mp4'
 output_video_path = 'output/video1/'
-'''
+```
+4. Execute!
 
 ## Helpful Repositories
 <ul>
