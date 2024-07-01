@@ -36,7 +36,11 @@
 </ul>
 
 ## Result
-
+|Input|Output|
+|-----|------|
+|<img src=""></img>| |
+|||
+|||
 
 ## How to Run
 1. Clone this repository
