@@ -38,9 +38,9 @@
 ## Result
 |Input|Output|
 |-----|------|
-|<img src=""></img>| |
-|||
-|||
+|![in_1](https://github.com/MICHAA4/TennisTechPro/assets/172036158/61fbddcb-5edf-43c4-99cc-462da293e15a)|![out_1](https://github.com/MICHAA4/TennisTechPro/assets/172036158/a962f048-ccc5-4490-bd19-f4b052df0c11)|
+|<img src="https://github.com/MICHAA4/TennisTechPro/assets/172036158/5968bd57-567c-40df-8d7a-b082d3413530"></img>|<img src="https://github.com/MICHAA4/TennisTechPro/assets/172036158/5a4b4247-1ccd-4a33-a260-b532bbca03af"></img>|
+|![in_5](https://github.com/MICHAA4/TennisTechPro/assets/172036158/022a8d69-6579-4feb-9a50-353488505a71)|![out_5](https://github.com/MICHAA4/TennisTechPro/assets/172036158/4595a2a2-81c9-4102-98fe-40a54cc63810)|
 
 ## How to Run
 1. Clone this repository
