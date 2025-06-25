@@ -45,7 +45,7 @@
 ## How to Run
 1. Clone this repository
 ```
-https://github.com/MICHAA4/TennisTechPro
+https://github.com/MICHAA4/python-tennistechpro-project
 ```
 2. Go to predict_video.py
 3. Write your input video path adn filename and output path
