@@ -45,7 +45,7 @@
 ## How to Run
 1. Clone this repository
 ```
-https://github.com/MICHAA4/capstone-tennis-vision-analyzer
+https://github.com/MICHAA4/tennis-vision-analyzer-capstone
 ```
 2. Go to predict_video.py
 3. Write your input video path adn filename and output path
